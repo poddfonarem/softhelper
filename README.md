@@ -26,7 +26,7 @@ To run this project locally, follow these simple steps:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/poddfonarem/softhelper.git](https://github.com/poddfonarem/softhelper.git)
+    git clone https://github.com/poddfonarem/softhelper.git
     ```
 2.  **Navigate to the project folder:**
     ```bash
